@@ -1,7 +1,7 @@
 ## Cybersecurity-Portfolio
 Hi, I'm Arya 
 
-Cybersecurity Enthusiast | SOC Analyst Aspirant
+Cybersecurity Enthusiast | SOC Analyst Aspirant | Security Analyst
 
 # Skills
 - Network Security
