@@ -26,35 +26,58 @@ I am currently gaining practical experience through a Cybersecurity Internship a
 - Network Security
 - Incident Response
 
-## 💼 Current Experience
+## 💼 Experience
 
 ### 🛡️ Cybersecurity Intern
-Currently gaining practical experience in cybersecurity, networking, security tools, and security operations.
+**Currently**
+
+- Gaining hands-on experience in cybersecurity and security operations
+- Working with cybersecurity tools and Linux environments
+- Developing practical knowledge of network security and threat detection
+- Applying cybersecurity concepts through hands-on tasks and projects
+
+### 🌐 Web Development Experience
+**Completed**
+
+- Gained practical experience in web development
+- Worked with HTML, CSS, and JavaScript
+- Developed and worked on web-based projects
 
 ## 🚀 Projects
 
-### 🔎 Basic Network Sniffer
-Python-based network packet sniffer built using Scapy.
+### 🛡️ VulnQuest
+**Automated Web Vulnerability Scanner**  
+Completed | `Python` `Flask` `SQLite`
 
-**Technologies:** Python, Scapy
+Web security project focused on vulnerability detection, security analysis, and remediation reporting.
 
-[View Project](https://github.com/Aryagirish-101/HorizonTechX_BasicNetworkSniffer)
-
-### 🌐 Web Development Project
-Web development project completed using modern web technologies.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[View Project](https://github.com/Aryagirish-101/Cognifyz-Web-Development)
-
-### 🛡️ VulnQuest Pro - Automated Web Vulnerability Scanner with Remediation Engine
-
-An automated web vulnerability scanning project focused on identifying common web security vulnerabilities and generating security findings.
+---
 
 ### 🚨 SOC Incident Detection & Log Analysis
-**Status: In Progress**
+**Security Monitoring & Incident Analysis**  
+🚧 In Progress | `Log Analysis` `Threat Detection` `Incident Response`
 
-A hands-on project focused on security log analysis, threat detection, incident investigation, and SOC workflows.
+Hands-on project focused on detecting suspicious activity, analyzing security logs, and investigating incidents.
+
+---
+
+### 🔎 Basic Network Sniffer
+**Network Packet Capture & Analysis**  
+✅ Completed | `Python` `Scapy`
+
+Captures and analyzes network packets for practical network security learning.
+
+[View Project →](https://github.com/Aryagirish-101/HorizonTechX_BasicNetworkSniffer)
+
+---
+
+### 🌐 Web Development Project
+**Web Development**  
+✅ Completed | `HTML` `CSS` `JavaScript`
+
+Practical web development project completed during web development training.
+
+[View Project →](https://github.com/Aryagirish-101/Cognifyz-Web-Development)
 
 ## 🧰 Skills & Tools
 
