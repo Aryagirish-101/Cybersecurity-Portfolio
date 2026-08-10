@@ -108,9 +108,9 @@ Practical web development project completed during web development training.
 
 ## 📚 Certifications & Learning
 
-- ISC2 Certified in Cybersecurity (CC) – Preparation
-- Cybersecurity Foundations
-- Incident Response & Security Operations
+- ISC2 Certified in Cybersecurity (CC)  Preparation - Linkedin
+- Cybersecurity Foundations - Linkedin
+- Cyber security job simulation - TATA forage
 
 ## 🧪 Cybersecurity Practice
 
